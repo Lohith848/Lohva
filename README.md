@@ -2,8 +2,7 @@
 
 > Voice-controlled intelligence for your laptop.
 
-🌐 **Website:** [lohva.in](https://lohva.in) &nbsp;·&nbsp; 🛠 **Built by** [Lohith G](https://github.com/Lohith848)
-
+🌐 **Website:** [lohva.in](https://lohva.in) &nbsp;·&nbsp;
 ---
 
 ## What is CYRUS?
